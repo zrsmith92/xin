@@ -3,5 +3,8 @@ name = "xin"
 version = "0.1.0"
 authors = ["Zach Smith <zach@commure.com>"]
 edition = "2018"
+description = "Like xargs but for stdin"
+keywords = ["cli", "stdio", "io"]
+categories = ["command-line-utilities"]
 
 [dependencies]
