@@ -6,5 +6,6 @@ edition = "2018"
 description = "Like xargs but for stdin"
 keywords = ["cli", "stdio", "io"]
 categories = ["command-line-utilities"]
+license = "MIT"
 
 [dependencies]
